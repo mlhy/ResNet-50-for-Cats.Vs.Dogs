@@ -4,7 +4,7 @@
 ### Necessary Libraries
 - keras
 - NumPy
-- cv2
+- OpenCV
 - tensorflow
 - matplotlib
 - tqdm
@@ -22,4 +22,46 @@ But I split *train* folder manual into 2 folders:
 	- dog ---- including 500 dog images
 
 
-The changed dataset can download from the [link]() I shared from pCloud.
+The changed dataset can download from the [link](https://my.pcloud.com/publink/show?code=XZHx8PZkM8tUtIwjw0GQYpwAuu38FPeMEly) I shared from pCloud.
+
+#### preview dataset
+
+![](img/resized.png)
+
+### Training Time
+
+- 24s per epoch (2048 images)
+- total epochs: 20
+- CPU i7 6700K
+- GPU GTX 980 Ti
+- Memory 32GB
+
+![](img/with_transferlearning.png)
+
+### Result preview
+
+#### Result
+
+![](img/result.png)
+
+#### feature heatmap
+
+![](img/featuremap_with_transferlearning.png)
+
+### Reference
+
+```
+@article{He2015,
+    author = {Kaiming He and Xiangyu Zhang and Shaoqing Ren and Jian Sun},
+    title = {Deep Residual Learning for Image Recognition},
+    journal = {arXiv preprint arXiv:1512.03385},
+    year = {2015}
+}
+
+@inproceedings{zhou2016cvpr,
+    author    = {Zhou, Bolei and Khosla, Aditya and Lapedriza, Agata and Oliva, Aude and Torralba, Antonio},
+    title     = {Learning Deep Features for Discriminative Localization},
+    booktitle = {Computer Vision and Pattern Recognition},
+    year      = {2016}
+}
+```

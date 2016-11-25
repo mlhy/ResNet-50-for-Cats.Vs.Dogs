@@ -1,7 +1,7 @@
 ## Capstone project
 ### ResNet-50 for Cats.Vs.Dogs.
 
-### Necessary Library
+### Necessary Libraries
 - keras
 - NumPy
 - cv2

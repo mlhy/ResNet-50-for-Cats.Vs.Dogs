@@ -24,7 +24,7 @@ But I split *train* folder manually into 2 folders:
 
 The changed dataset can download from the [link](https://my.pcloud.com/publink/show?code=XZHx8PZkM8tUtIwjw0GQYpwAuu38FPeMEly) I shared from pCloud.
 
-#### preview dataset
+#### Dataset preview
 
 ![](img/resized.png)
 
@@ -44,7 +44,7 @@ The changed dataset can download from the [link](https://my.pcloud.com/publink/s
 
 ![](img/result.png)
 
-#### feature heatmap
+#### Feature heatmap
 
 ![](img/featuremap_with_transferlearning.png)
 

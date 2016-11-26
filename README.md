@@ -58,10 +58,10 @@ The changed dataset can download from the [link](https://my.pcloud.com/publink/s
     year = {2015}
 }
 
-@inproceedings{zhou2016cvpr,
-    author    = {Zhou, Bolei and Khosla, Aditya and Lapedriza, Agata and Oliva, Aude and Torralba, Antonio},
-    title     = {Learning Deep Features for Discriminative Localization},
-    booktitle = {Computer Vision and Pattern Recognition},
-    year      = {2016}
+@article{zhou2015cnnlocalization,
+    author={Zhou, B. and Khosla, A. and Lapedriza. A. and Oliva, A. and Torralba, A.},
+    title={{Learning Deep Features for Discriminative Localization.}},
+    journal={CVPR},
+    year={2016}
 }
 ```

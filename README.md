@@ -12,7 +12,7 @@
 ### Dataset
 Initial dataset is downloaded from [kaggle](https://www.kaggle.com/c/dogs-vs-cats-redux-kernels-edition/data). The dataset includes two folders *test* and *train*.
 
-But I split *train* folder manual into 2 folders:
+But I split *train* folder manually into 2 folders:
 
 - trian ---- including two folders
 	- cat ---- including 12000 cat images

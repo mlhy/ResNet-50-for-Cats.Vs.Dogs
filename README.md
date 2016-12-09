@@ -57,7 +57,7 @@ the prossessing steps completed in *preprocessing train dataset.ipynb*
 
 #### Feature heatmap
 
-![](img/featuremap_with_transferlearning.png)
+![](img/ResNet50.png)
 
 ### Reference
 

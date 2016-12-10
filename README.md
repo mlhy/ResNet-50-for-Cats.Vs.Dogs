@@ -13,7 +13,7 @@ cuDNN 5.1
 - keras 1.1.2
 - NumPy 1.11.2
 - OpenCV 3.1.0
-- tensorflow gpu 10.11.0
+- tensorflow gpu 0.11.0
 - matplotlib 1.5.1
 - tqdm 4.7.6
 - sklearn 0.18.1

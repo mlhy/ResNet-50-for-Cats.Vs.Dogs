@@ -18,6 +18,7 @@ cuDNN 5.1
 - tqdm 4.7.6
 - sklearn 0.18.1
 - seaborn 0.7.1
+- pandas 0.19.1
 
 ### Dataset
 
